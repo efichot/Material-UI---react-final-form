@@ -28,6 +28,8 @@
         "props": false
       }
     ],
+    "jsx-a11y/label-has-for": 0,
+    "no-alert": 0,
     "no-console": 0,
     "import": 0,
     "func-names": 0,
